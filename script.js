@@ -1,9 +1,9 @@
 const message = document.getElementById("message");
 
 let x = 10;
-let y = 20;
+let y = 15;
 let vx = 3;
-let vy = 2;
+let vy = 1;
 
 const gravity = 0.15;
 const bounce = 0.9;
